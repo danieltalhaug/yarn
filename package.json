@@ -1,0 +1,12 @@
+{
+  "name": "yarn",
+  "version": "1.0.0",
+  "description": "yarn jquery",
+  "main": "index.js",
+  "repository": "https://github.com/danieltalhaug/yarn.git",
+  "author": "danieltalhaug <daniel.talhaug@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
